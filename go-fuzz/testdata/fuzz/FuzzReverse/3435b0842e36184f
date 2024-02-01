@@ -1,0 +1,2 @@
+go test fuzz v1
+string("ԝ\xa7@\x00J\x9dԧĝ")
